@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CHomeTask13\CHomeTask13\bin\Debug\netcoreapp3.1\CHomeTask13.exe
+C:\Users\User\source\repos\CHomeTask13\CHomeTask13\bin\Debug\netcoreapp3.1\CHomeTask13.deps.json
+C:\Users\User\source\repos\CHomeTask13\CHomeTask13\bin\Debug\netcoreapp3.1\CHomeTask13.runtimeconfig.json
+C:\Users\User\source\repos\CHomeTask13\CHomeTask13\bin\Debug\netcoreapp3.1\CHomeTask13.runtimeconfig.dev.json
+C:\Users\User\source\repos\CHomeTask13\CHomeTask13\bin\Debug\netcoreapp3.1\CHomeTask13.dll
+C:\Users\User\source\repos\CHomeTask13\CHomeTask13\bin\Debug\netcoreapp3.1\CHomeTask13.pdb
+C:\Users\User\source\repos\CHomeTask13\CHomeTask13\obj\Debug\netcoreapp3.1\CHomeTask13.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CHomeTask13\CHomeTask13\obj\Debug\netcoreapp3.1\CHomeTask13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CHomeTask13\CHomeTask13\obj\Debug\netcoreapp3.1\CHomeTask13.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CHomeTask13\CHomeTask13\obj\Debug\netcoreapp3.1\CHomeTask13.AssemblyInfo.cs
+C:\Users\User\source\repos\CHomeTask13\CHomeTask13\obj\Debug\netcoreapp3.1\CHomeTask13.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CHomeTask13\CHomeTask13\obj\Debug\netcoreapp3.1\CHomeTask13.dll
+C:\Users\User\source\repos\CHomeTask13\CHomeTask13\obj\Debug\netcoreapp3.1\CHomeTask13.pdb
+C:\Users\User\source\repos\CHomeTask13\CHomeTask13\obj\Debug\netcoreapp3.1\CHomeTask13.genruntimeconfig.cache
